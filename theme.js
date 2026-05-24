@@ -1,4 +1,3 @@
-
 const themes = document.getElementsByClassName("theme");
 
 Array.from(themes).forEach((theme) => {
